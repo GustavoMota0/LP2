@@ -1,0 +1,10 @@
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\VolumeCilindro\VolumeCilindro\bin\Debug\VolumeCilindro.exe.config
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\VolumeCilindro\VolumeCilindro\bin\Debug\VolumeCilindro.exe
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\VolumeCilindro\VolumeCilindro\bin\Debug\VolumeCilindro.pdb
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\VolumeCilindro\VolumeCilindro\obj\Debug\VolumeCilindro.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\VolumeCilindro\VolumeCilindro\obj\Debug\VolumeCilindro.Form1.resources
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\VolumeCilindro\VolumeCilindro\obj\Debug\VolumeCilindro.Properties.Resources.resources
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\VolumeCilindro\VolumeCilindro\obj\Debug\VolumeCilindro.csproj.GenerateResource.cache
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\VolumeCilindro\VolumeCilindro\obj\Debug\VolumeCilindro.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\VolumeCilindro\VolumeCilindro\obj\Debug\VolumeCilindro.exe
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\VolumeCilindro\VolumeCilindro\obj\Debug\VolumeCilindro.pdb
