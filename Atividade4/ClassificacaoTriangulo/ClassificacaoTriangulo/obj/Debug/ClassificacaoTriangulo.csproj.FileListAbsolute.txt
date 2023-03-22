@@ -1,0 +1,10 @@
+C:\Users\gusta\source\repos\ClassificacaoTriangulo\ClassificacaoTriangulo\bin\Debug\ClassificacaoTriangulo.exe.config
+C:\Users\gusta\source\repos\ClassificacaoTriangulo\ClassificacaoTriangulo\bin\Debug\ClassificacaoTriangulo.exe
+C:\Users\gusta\source\repos\ClassificacaoTriangulo\ClassificacaoTriangulo\bin\Debug\ClassificacaoTriangulo.pdb
+C:\Users\gusta\source\repos\ClassificacaoTriangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\ClassificacaoTriangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.Form1.resources
+C:\Users\gusta\source\repos\ClassificacaoTriangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.Properties.Resources.resources
+C:\Users\gusta\source\repos\ClassificacaoTriangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\ClassificacaoTriangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\ClassificacaoTriangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.exe
+C:\Users\gusta\source\repos\ClassificacaoTriangulo\ClassificacaoTriangulo\obj\Debug\ClassificacaoTriangulo.pdb
