@@ -1,0 +1,10 @@
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade3\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade3\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade3\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade3\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade3\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Form1.resources
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade3\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Properties.Resources.resources
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade3\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.GenerateResource.cache
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade3\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade3\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.exe
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade3\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.pdb
