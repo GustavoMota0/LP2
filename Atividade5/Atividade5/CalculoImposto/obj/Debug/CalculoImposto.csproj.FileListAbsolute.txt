@@ -1,0 +1,20 @@
+C:\Users\0030482221009\Documents\Visual Studio 2019\LP2\CalculoImposto\CalculoImposto\bin\Debug\CalculoImposto.exe.config
+C:\Users\0030482221009\Documents\Visual Studio 2019\LP2\CalculoImposto\CalculoImposto\bin\Debug\CalculoImposto.exe
+C:\Users\0030482221009\Documents\Visual Studio 2019\LP2\CalculoImposto\CalculoImposto\bin\Debug\CalculoImposto.pdb
+C:\Users\0030482221009\Documents\Visual Studio 2019\LP2\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.csprojAssemblyReference.cache
+C:\Users\0030482221009\Documents\Visual Studio 2019\LP2\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.Form1.resources
+C:\Users\0030482221009\Documents\Visual Studio 2019\LP2\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.Properties.Resources.resources
+C:\Users\0030482221009\Documents\Visual Studio 2019\LP2\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.csproj.GenerateResource.cache
+C:\Users\0030482221009\Documents\Visual Studio 2019\LP2\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.csproj.CoreCompileInputs.cache
+C:\Users\0030482221009\Documents\Visual Studio 2019\LP2\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.exe
+C:\Users\0030482221009\Documents\Visual Studio 2019\LP2\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.pdb
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade5\CalculoImposto\bin\Debug\CalculoImposto.exe.config
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade5\CalculoImposto\bin\Debug\CalculoImposto.exe
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade5\CalculoImposto\bin\Debug\CalculoImposto.pdb
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade5\CalculoImposto\obj\Debug\CalculoImposto.Imposto.resources
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade5\CalculoImposto\obj\Debug\CalculoImposto.Properties.Resources.resources
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade5\CalculoImposto\obj\Debug\CalculoImposto.csproj.GenerateResource.cache
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade5\CalculoImposto\obj\Debug\CalculoImposto.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade5\CalculoImposto\obj\Debug\CalculoImposto.exe
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade5\CalculoImposto\obj\Debug\CalculoImposto.pdb
+C:\Users\gusta\OneDrive - Fatec Centro Paula Souza\Documents\Arquivos Fatec\LP2\Atividade5\CalculoImposto\obj\Debug\CalculoImposto.csproj.AssemblyReference.cache
